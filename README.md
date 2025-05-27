@@ -18,9 +18,9 @@ designed to reinforce core JavaScript, HTML, and CSS concepts through hands-on p
 - Adjust the size of the grid dynamically
 - Optional: Toggle between different coloring modes (e.g., black, random color, eraser)
 
-## 📸 Screenshots
+## 📸 Preview
 
-![Etch-a-Sketch Preview](./screenshot.png) <!-- Optional: Add a screenshot image in the project directory -->
+![Etch-a-Sketch Preview](https://krisnaarji.github.io/TOP-Etch-A-Sketch/) 
 
 ## 🧱 How It Works
 
