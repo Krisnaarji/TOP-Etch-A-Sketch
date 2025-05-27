@@ -1,7 +1,7 @@
 function create2Darr() {
     let arr = [];
     let value = 0;
-    const size = 400;
+    const size = 500;
 
     const container = document.getElementById("container");
     container.style.display = "flex";
