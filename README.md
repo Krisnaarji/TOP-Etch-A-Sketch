@@ -20,7 +20,7 @@ designed to reinforce core JavaScript, HTML, and CSS concepts through hands-on p
 
 ## 📸 Preview
 
-![Etch-a-Sketch Preview](https://krisnaarji.github.io/TOP-Etch-A-Sketch/) 
+[Etch-a-Sketch Preview](https://krisnaarji.github.io/TOP-Etch-A-Sketch/) 
 
 ## 🧱 How It Works
 
